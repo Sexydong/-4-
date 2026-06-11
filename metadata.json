@@ -1,0 +1,6 @@
+{
+  "name": "ShieldGuard",
+  "description": "AI-powered real-time virus detector, automatic threat cleaner, and proactive malicious app installer blocker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
